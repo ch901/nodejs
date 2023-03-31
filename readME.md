@@ -14,4 +14,4 @@ microservices on the other hand, breaks it applications into smaller chunks maki
 
 5. REPL means Read, Evaluate, Print, Loop
 
-6.
+6. 

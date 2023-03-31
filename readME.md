@@ -10,7 +10,7 @@ Consider the same example of the e-commerce application, which consists of sever
 
 microservices on the other hand, breaks it applications into smaller chunks making room for specialization and effeciency, handlers of the operations are therefore focused and effective. a problem in one specialty may not affect the other, thereby loses are minimal.
 
-4. yes node.js in itself is multithreaded because it can support other operation and work concurrently
+4. No node js is generally single threaded and yes node.js in itself is multithreaded because it can support other operation and work concurrently
 
 5. REPL means Read, Evaluate, Print, Loop
 
